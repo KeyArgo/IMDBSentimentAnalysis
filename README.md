@@ -43,12 +43,6 @@
 
 This repository contains an implementation of a Naive Bayes classifier for sentiment analysis on the IMDB movie reviews dataset using the Scikit-learn and TensorFlow libraries.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
