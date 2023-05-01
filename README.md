@@ -4,7 +4,7 @@
   <a href="https://github.com/KeyArgo/IMDBSentimentAnalysis">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-<h2 align="center">IMDB Sentiment Analysis using Naive Bayes</h2>
+<h2 align="center">IMDBSentimentAnalysis using Naive Bayes</h2>
 
   <p align="center">
     <a href="https://github.com/KeyArgo/ImageClassificationCNN"><strong>Explore the docs »</strong></a>
@@ -177,7 +177,7 @@ If you have any suggestions or improvements for this project, feel free to contr
 ### Steps for contributing:
 
 1. Fork the repository on GitHub.
-2. Clone your fork of the repository: `git clone https://github.com/keyargo/IMDB-NaiveBayesClassifier.git`
+2. Clone your fork of the repository: `git clone https://github.com/KeyArgo/IMDBSentimentAnalysis.git`
 3. Create a new branch for your changes: `git checkout -b my-feature-branch`
 4. Make your changes to the code or documentation.
 5. Commit your changes: `git commit -am 'Add my new feature'`
@@ -219,4 +219,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Daniel LaForce - danlaforce3@gmail.com
 
-Project Link: [https://github.com/KeyArgo/ImageClassificationCNN](https://github.com/KeyArgo/ImageClassificationCNN)
+Project Link: [https://github.com/KeyArgo/IMDBSentimentAnalysis](https://github.com/KeyArgo/IMDBSentimentAnalysis)
