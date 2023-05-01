@@ -1,15 +1,12 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/KeyArgo/ImageClassificationCNN">
+  <a href="https://github.com/KeyArgo/IMDBSentimentAnalysis">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-<h2 align="center">Image Classification CNN</h2>
-<h3 align="center">Convolutional Neural Network for CIFAR-10 dataset</h3>
+<h2 align="center">IMDB Sentiment Analysis using Naive Bayes</h2>
 
   <p align="center">
-    This code implements a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
-    <br />
     <a href="https://github.com/KeyArgo/ImageClassificationCNN"><strong>Explore the docs »</strong></a>
     <br />
     <br />
@@ -29,17 +26,9 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#dependencies">Dependencies</a></li>
-        <li><a href="#training">Training</a></li>
-      </ul>
-    </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -52,32 +41,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This repository contains a TensorFlow-based implementation of a Convolutional Neural Network (CNN) for image classification on the CIFAR-10 dataset.
+This repository contains an implementation of a Naive Bayes classifier for sentiment analysis on the IMDB movie reviews dataset using the Scikit-learn and TensorFlow libraries.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-### Built With
-
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="" alt="tensorflow" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="" alt="keras" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
-  </a>
-</p>
-
-
-<p align="left">
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="" alt="matplotlib" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
-  </a>
-</p>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
